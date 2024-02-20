@@ -4,8 +4,6 @@
 
 <h4 align="center">Warning, this profile created for my personal happiness</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omer-priel" alt="omer-priel" /></a> </p>
-
 - 💬 Ask me about **Python, FastAPI** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
 - 🌱 I’m currently contributing to [mermaid](https://mermaid.js.org/) \
