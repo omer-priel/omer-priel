@@ -6,9 +6,8 @@
 
 - 💬 Ask me about **Python, FastAPI** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
-- 🌱 I’m currently contributing to [mermaid](https://mermaid.js.org/) \
-  I'm Back-End, and still contribute to it (I don't have much time  lately). \
-  Because, it's a tool I like to use in most of the time.
+- 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
+even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 - 🔭 I’m currently working on final projects for the last year in the University
 
