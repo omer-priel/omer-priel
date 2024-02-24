@@ -10,7 +10,7 @@
   I'm Back-End, and still contribute to it (I don't have much time  lately). \
   Because, it's a tool I like to use in most of the time.
 
-- 🔭 I’m currently working as final projects for the last year in the University
+- 🔭 I’m currently working on final projects for the last year in the University
 
 - 📫 Reach me by email **omer.priel2@gmail.com**
 
