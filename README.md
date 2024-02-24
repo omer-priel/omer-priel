@@ -14,14 +14,47 @@
 
 - 📫 Reach me by email **omer.priel2@gmail.com**
 
-<h3 align="left">Linkedin:</h3>
+### Linkedin:
 <p align="left">
   <a href="https://www.linkedin.com/in/omer-priel/" target="_blank">
     <img align="center" src="./icons/linked.svg" alt="omer-priel" height="30" width="40" />
   </a>
 </p>
 
-<h3>Languages (Arranged in the order I learned them):</h3>
+### Projects:
+
+#### For university
+
+- [university-networking-final](https://github.com/omer-priel/university-networking-final) - File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
+
+- [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers (currently in development). Creating with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
+
+- [university-TheRootOfDataScience](https://github.com/omer-priel/university-TheRootOfDataScience) - ML project for university. In theory it was about ML, but in practice most of the time was about Web Scraping that we dos on **yelp**. Created with **beautifulsoup4**, **Splash**, **selenium**, and **scikit-learn**.
+
+- [university-algo2](https://github.com/omer-priel/university-algo2) - Implementations of algorithms based graphs with full GUI for the user to understand the algorithms. created by **python**, **networkx**, **matplotlib**, and **tkinter**. The Agotiems:
+  * Brooks
+  * Edmonds Blossom
+  * Hungarian
+  * DFS (only as simple example for the GUI)
+
+#### For myself
+
+
+- [Control](https://github.com/omer-priel/Control) - It was my first real project that I created in 2015. A two programs for contolling of other computers without the other computer to konw about it. One is the contoller and he has GUI for see the sceens, keyboard and can send commands to the other computer by other program that run on the other computer. Created with **C#**. 
+
+- [quality-content-for-children](https://github.com/omer-priel/quality-content-for-children) - Like to the website: [madabclick.madaney.net](https://madabclick.madaney.net/he). **madabclick** is a website for children that contains quality content that selected by graduates of odyssey. It created because of the war. Created with **NextJS** (**React**), **AWS**, **Terraform** and **Docker**.
+
+- [VirtualComputer](https://github.com/omer-priel/VirtualComputer) - Application based on the VM consept. Its work like the terminal (CMD), But save the data on custom "Virtual Hard Drive" file (.vhd) with format that I desined. Created with **C++**.
+
+- [mermaid](https://github.com/mermaid-js/mermaid) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
+
+- [NewWorld](https://github.com/omer-priel/NewWorld) - It a game engine that created from scratch (only GLM) that contains full GUI system for debug and the developemt itself. But I didn't have time (I moved to Back End and leave the 3D world) to continue and end it. Created with **C++** and **OpenGL**.
+
+- [LogisticSaloon](https://github.com/omer-priel/LogisticSaloon) - A website for seeing logistic reports that created for Hackathon in IDF. It build with Vue.
+
+- [BuildingEscape](https://github.com/omer-priel/BuildingEscape) - A simple Building Escape game that created with **Unreal Engine 4**.
+
+### Languages (Arranged in the order I learned them):
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
     <img src="./icons/CSharp.png" alt="C#" width="40" height="40" />
@@ -59,8 +92,7 @@
 </p>
 
 
-
-<h3>Technologies and Tools (in no particular order):</h3>
+### Technologies and Tools (in no particular order):
 <p>
   <a href="https://mermaid.js.org/" target="_blank">
     <img src="./icons/mermaid.svg" alt="mermaid" width="40" height="40" />
