@@ -30,7 +30,7 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 - [university-TheRootOfDataScience](https://github.com/omer-priel/university-TheRootOfDataScience) - ML project for university. In theory it was about ML, but in practice most of the time was about Web Scraping that we dos on **yelp**. Created with **beautifulsoup4**, **Splash**, **selenium**, and **scikit-learn**.
 
-- [university-algo2](https://github.com/omer-priel/university-algo2) - Implementations of algorithms based graphs with full GUI for the user to understand the algorithms. created by **python**, **networkx**, **matplotlib**, and **tkinter**. The Agotiems:
+- [university-algo2](https://github.com/omer-priel/university-algo2) - Implementations of graph based algorithms with full GUI for the user to understand the algorithms. created by **python**, **networkx**, **matplotlib**, and **tkinter**. The algorithms:
   * Brooks
   * Edmonds Blossom
   * Hungarian
