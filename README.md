@@ -26,7 +26,7 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 - [university-networking-final](https://github.com/omer-priel/university-networking-final) - File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
 
-- [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers (currently in development). Creating with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
+- [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers. Created with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
 
 - [university-TheRootOfDataScience](https://github.com/omer-priel/university-TheRootOfDataScience) - ML project for university. In theory it was about ML, but in practice most of the time was about Web Scraping that we dos on **yelp**. Created with **beautifulsoup4**, **Splash**, **selenium**, and **scikit-learn**.
 
