@@ -31,7 +31,7 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 - [mermaid](https://mermaid.js.org/) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
 
 ```mermaid
-graph TD;
+graph LR;
   Example --> Of[Of Mermaid]
   Of --> Diagrams
   Diagrams --> In[In GitHub 🤣] 
