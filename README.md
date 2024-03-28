@@ -32,9 +32,10 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 ```mermaid
 graph LR;
-  Example --> Of[Of Mermaid]
-  Of --> Diagrams
-  Diagrams --> In[In GitHub 🤣] 
+  Example --> Of
+  Of --> Mermaid
+  Mermaid --> In
+  In --> [GitHub 🤣] 
 ```
 
 #### For university
