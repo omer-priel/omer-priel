@@ -35,7 +35,7 @@ graph LR;
   Example --> Of
   Of --> Mermaid
   Mermaid --> In
-  In --> [GitHub 🤣] 
+  In --> GitHub[GitHub 🤣]
 ```
 
 #### For university
