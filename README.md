@@ -11,7 +11,7 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 - 🔭 I’m currently working on final projects for the last year in the University
 
-- 📫 Reach me by email **omer.priel2@gmail.com**
+- 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
 ### Linkedin:
 <p align="left">
