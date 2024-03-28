@@ -4,7 +4,7 @@
 
 <h4 align="center">Warning, this profile created for my personal happiness</h4>
 
-- 💬 Ask me about **Python, FastAPI** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
+- 💬 Ask me about **Python, FastAPI, Django** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
 - 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
 even thogh I a Back-End Developer. Because, it is a tool I like to use.
@@ -28,7 +28,7 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 ### Open Source
 
-- [mermaid](https://github.com/mermaid-js/mermaid) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
+- [mermaid](https://mermaid.js.org/) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
 
 #### For university
 
@@ -43,6 +43,8 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
   * Edmonds Blossom
   * Hungarian
   * DFS (only as simple example for the GUI)
+
+- [walmart-sales-prediction](https://github.com/LiorShiboli/walmart-sales-prediction) - Deep Learning project for university. To predict walmart's profit for each department in each store for the coming week when we have the information up to that week. Created with **Python**, **PyTorch**, **Pandas**, **Numpy**, and **Matplotlib**.
 
 #### For myself
 
