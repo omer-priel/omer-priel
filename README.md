@@ -42,8 +42,6 @@ graph LR;
 
 - [university-networking-final](https://github.com/omer-priel/university-networking-final) - File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
 
-- [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers. Created with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
-
 - [university-TheRootOfDataScience](https://github.com/omer-priel/university-TheRootOfDataScience) - ML project for university. In theory it was about ML, but in practice most of the time was about Web Scraping that we dos on **yelp**. Created with **beautifulsoup4**, **Splash**, **selenium**, and **scikit-learn**.
 
 - [university-algo2](https://github.com/omer-priel/university-algo2) - Implementations of graph based algorithms with full GUI for the user to understand the algorithms. created by **python**, **networkx**, **matplotlib**, and **tkinter**. The algorithms:
@@ -51,6 +49,8 @@ graph LR;
   * Edmonds Blossom
   * Hungarian
   * DFS (only as simple example for the GUI)
+
+- [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers. Created with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
 
 - [walmart-sales-prediction](https://github.com/LiorShiboli/walmart-sales-prediction) - Deep Learning project for university. To predict walmart's profit for each department in each store for the coming week when we have the information up to that week. Created with **Python**, **PyTorch**, **Pandas**, **Numpy**, and **Matplotlib**.
 
