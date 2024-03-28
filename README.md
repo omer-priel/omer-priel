@@ -30,6 +30,13 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 - [mermaid](https://mermaid.js.org/) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
 
+```mermaid
+graph TD;
+  Example --> Of[Of Mermaid]
+  Of --> Diagrams
+  Diagrams --> In[In GitHub 🤣] 
+```
+
 #### For university
 
 - [university-networking-final](https://github.com/omer-priel/university-networking-final) - File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
