@@ -22,6 +22,14 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 ### Projects:
 
+### Work
+
+- [EasyFarm](http://easyfarm.co.il/) - Order and sales management for farms and small businesses
+
+### Open Source
+
+- [mermaid](https://github.com/mermaid-js/mermaid) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
+
 #### For university
 
 - [university-networking-final](https://github.com/omer-priel/university-networking-final) - File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
@@ -38,14 +46,11 @@ even thogh I a Back-End Developer. Because, it is a tool I like to use.
 
 #### For myself
 
+- [madabclick](https://github.com/omer-priel/madabclick) - Like to the website: [madabclick-frontend.onrender.com](https://madabclick-frontend.onrender.com). **madabclick** is a website for children that contains quality content that selected by graduates of odyssey. It created because of the war. Created with **NextJS** (**React**), **AWS**, **Terraform** and **Docker**.
 
 - [Control](https://github.com/omer-priel/Control) - It was my first real project that I created in 2015. A two programs for contolling of other computers without the other computer to konw about it. One is the contoller and he has GUI for see the sceens, keyboard and can send commands to the other computer by other program that run on the other computer. Created with **C#**. 
 
-- [madabclick](https://github.com/omer-priel/madabclick) - Like to the website: [madabclick-frontend.onrender.com](https://madabclick-frontend.onrender.com). **madabclick** is a website for children that contains quality content that selected by graduates of odyssey. It created because of the war. Created with **NextJS** (**React**), **AWS**, **Terraform** and **Docker**.
-
 - [VirtualComputer](https://github.com/omer-priel/VirtualComputer) - Application based on the VM consept. Its work like the terminal (CMD), But save the data on custom "Virtual Hard Drive" file (.vhd) with format that I desined. Created with **C++**.
-
-- [mermaid](https://github.com/mermaid-js/mermaid) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
 
 - [NewWorld](https://github.com/omer-priel/NewWorld) - It a game engine that created from scratch (only GLM) that contains full GUI system for debug and the developemt itself. But I didn't have time (I moved to Back End and leave the 3D world) to continue and end it. Created with **C++** and **OpenGL**.
 
