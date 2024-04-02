@@ -7,11 +7,15 @@
 - 💬 Ask me about **Python, FastAPI, Django** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
 - 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
-even thogh I a Back-End Developer. Because, it is a tool I like to use.
+even thogh I a Back-End Developer. Because, it is a tool that I using daily.
 
-- 🔭 I’m currently working on final projects for the last year in the University
+- I am currently working for [EasyFarm](http://easyfarm.co.il/) as a Back-End Developer.
+
+- 🔭 I am currently working on final projects for the last year in the University
 
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
+
+- ⚡ Fun fact, I am **Linux Mint** and love it. But I choose it because it looked like **Windows** for me.
 
 ### Linkedin:
 <p align="left">
@@ -71,7 +75,7 @@ graph LR;
 ### Languages (Arranged in the order I learned them):
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank">
-    <img src="./icons/CSharp.png" alt="C#" width="40" height="40" />
+    <img src="./icons/CSharp.svg" alt="C#" width="40" height="40" />
   </a>
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank">
     <img src="./icons/asm.webp" alt="asm86" width="40" height="40" />
@@ -92,10 +96,10 @@ graph LR;
     <img src="./icons/C.png" alt="C" width="40" height="40" />
   </a>
   <a href="https://cplusplus.com/" target="_blank">
-    <img src="./icons/C++.png" alt="C++" width="40" height="40" />
+    <img src="./icons/C++.svg" alt="C++" width="40" height="40" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="./icons/python.png" alt="python" width="40" height="40" />
+    <img src="./icons/python.svg" alt="python" width="40" height="40" />
   </a>
   <a href="https://dart.dev/" target="_blank">
     <img src="./icons/Dart.svg" alt="Dart" width="40" height="40" />
@@ -212,8 +216,8 @@ graph LR;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="./icons/css.svg" alt="CSS" width="40" height="40" />
   </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="./icons/Flutter.svg" alt="Flutter" width="40" height="40" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="./icons/TailwindCSS.svg" alt="CSS" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="./icons/NextJS.svg" alt="NextJS" width="40" height="40" />
@@ -226,6 +230,9 @@ graph LR;
   </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="./icons/Redux.svg" alt="Redux" width="40" height="40" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="./icons/Flutter.svg" alt="Flutter" width="40" height="40" />
   </a>
   <a href="https://wordpress.org/" target="_blank">
     <img src="./icons/WordPress.svg" alt="WordPress" width="40" height="40" />
