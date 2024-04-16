@@ -127,6 +127,15 @@ graph LR;
   <a href="https://expressjs.com/" target="_blank">
     <img src="./icons/Express.png" alt="Express" width="40" height="40" />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="./icons/docker.svg" alt="docker" width="40" height="40" />
+  </a>
+  <a href="https://editorconfig.org/" target="_blank">
+    <img src="./icons/EditorConfig.png" alt="EditorConfig" width="40" height="40" />
+  </a>
+  <a href="https://mypy-lang.org/" target="_blank">
+    <img src="./icons/mypy.jpeg" alt="mypy" width="40" height="40" />
+  </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="./icons/terraform.svg" alt="terraform" width="40" height="40" />
   </a>
@@ -135,15 +144,6 @@ graph LR;
   </a>
   <a href="https://cloud.google.com/" target="_blank">
     <img src="./icons/gcp.svg" alt="GCP" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="./icons/docker.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <img src="./icons/Linux.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="./icons/bash.png" alt="bash" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="./icons/git.svg" alt="git" width="40" height="40" />
@@ -171,11 +171,11 @@ graph LR;
   <a href="https://yarnpkg.com/" target="_blank">
     <img src="./icons/Yarn.svg" alt="Yarn" width="40" height="40" />
   </a>
-  <a href="https://editorconfig.org/" target="_blank">
-    <img src="./icons/EditorConfig.png" alt="EditorConfig" width="40" height="40" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="./icons/bash.png" alt="bash" width="40" height="40" />
   </a>
-  <a href="https://mypy-lang.org/" target="_blank">
-    <img src="./icons/mypy.jpeg" alt="mypy" width="40" height="40" />
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+    <img src="./icons/Linux.svg" alt="Linux" width="40" height="40" />
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="./icons/jupyter.svg" alt="jupyter" width="40" height="40" />
