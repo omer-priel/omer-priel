@@ -15,7 +15,7 @@ even thogh I a Back-End Developer. Because, it is a tool that I using daily.
 
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
-- ⚡ Fun fact, I am **Linux Mint** and love it. But I choose it because it looked like **Windows** for me.
+- ⚡ Fun fact, I am **Linux Mint** and love it. But I choose it, since it looked like **Windows** for me.
 
 ### Linkedin:
 <p align="left">
