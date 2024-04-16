@@ -28,7 +28,7 @@ even thogh I a Back-End Developer. Because, it is a tool that I using daily.
 
 ### Work
 
-- [EasyFarm](http://easyfarm.co.il/) - Order and sales management for farms and small businesses
+- [EasyFarm](http://easyfarm.co.il/) - Sales online store and management for farms and businesses
 
 ### Open Source
 
