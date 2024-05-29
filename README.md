@@ -6,12 +6,12 @@
 
 - 💬 Ask me about **Python, FastAPI, Django** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
-- 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
-even thogh I a Back-End Developer. Because, it is a tool that I using daily.
-
 - I am currently working for [EasyFarm](http://easyfarm.co.il/) as a Back-End Developer.
 
 - 🔭 I am currently working on final projects for the last year in the University
+
+- 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
+even thogh I a Back-End Developer. Because, it is a tool that I using daily.
 
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
@@ -53,6 +53,8 @@ graph LR;
   * Edmonds Blossom
   * Hungarian
   * DFS (only as simple example for the GUI)
+
+- [equal-shares](https://github.com/equal-shares/equal-shares/) - A voting system for the Student Union in the university based on the algoritem Method of Equal Shares, Created with **FastAPI**, **React**, **PostgreSQL**, **Docker**, **Nginx**, **GitHub Actions**. BTW, this project is currently in development and integration with the university.
 
 - [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers. Created with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
 
