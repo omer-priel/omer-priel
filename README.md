@@ -15,6 +15,14 @@ even thogh I a Back-End Developer. Because, it is a tool that I using daily. -->
 
 - Love [mermaid](https://mermaid.js.org/) for planning and explaining.
 
+```mermaid
+graph LR;
+  Example -> Of
+  Of -> Mermaid
+  Mermaid -> In
+  In -> GitHub[GitHub 🤣]
+```
+
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
 - ⚡ Fun fact, I am **Linux Mint** and love it. But I choose it, since it looked like **Windows** for me.
