@@ -10,8 +10,10 @@
 
 - 🔭 I am currently working on final projects for the last year in the University
 
-- 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
-even thogh I a Back-End Developer. Because, it is a tool that I using daily.
+<!-- - 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
+even thogh I a Back-End Developer. Because, it is a tool that I using daily. -->
+
+- Love [mermaid](https://mermaid.js.org/) for planning and explaining.
 
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
@@ -30,17 +32,18 @@ even thogh I a Back-End Developer. Because, it is a tool that I using daily.
 
 - [EasyFarm](http://easyfarm.co.il/) - Online store and management for farms and businesses
 
-### Open Source
+<!-- ### Open Source
 
 - [mermaid](https://mermaid.js.org/) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
 
-```mermaid
+mermaid
 graph LR;
-  Example --> Of
-  Of --> Mermaid
-  Mermaid --> In
-  In --> GitHub[GitHub 🤣]
+  Example -> Of
+  Of -> Mermaid
+  Mermaid -> In
+  In -> GitHub[GitHub 🤣]
 ```
+-->
 
 #### For university
 
