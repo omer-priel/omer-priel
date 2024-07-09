@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omer Priel</h1>
 
-<h3 align="center">Software Developer, Freelancer and Student</h3>
+<h3 align="center">Software Engineer Freelancer</h3>
 
 <h4 align="center">Warning, this profile created for my personal happiness</h4>
 
