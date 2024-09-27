@@ -39,27 +39,27 @@ graph LR;
 
 #### For university
 
-- [university-networking-final](https://github.com/omer-priel/university-networking-final) - File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
+- [university-networking-final](https://github.com/omer-priel/university-networking-final) - (Developed Solo) File transfer Protocol like FTP based on RUDP (Reliable UDP) that created from scratch in **python**. and it Final Project for networking (contains other tasks).
 
-- [university-TheRootOfDataScience](https://github.com/omer-priel/university-TheRootOfDataScience) - ML project for university. In theory it was about ML, but in practice most of the time was about Web Scraping that we dos on **yelp**. Created with **beautifulsoup4**, **Splash**, **selenium**, and **scikit-learn**.
+- [university-TheRootOfDataScience](https://github.com/omer-priel/university-TheRootOfDataScience) - (Developed with friend) ML project for university. In theory it was about ML, but in practice most of the time was about Web Scraping that we dos on **yelp**. Created with **beautifulsoup4**, **Splash**, **selenium**, and **scikit-learn**.
 
-- [university-algo2](https://github.com/omer-priel/university-algo2) - Implementations of graph based algorithms with full GUI for the user to understand the algorithms. created by **python**, **networkx**, **matplotlib**, and **tkinter**. The algorithms:
+- [university-algo2](https://github.com/omer-priel/university-algo2) - (Developed with friend) Implementations of graph based algorithms with full GUI for the user to understand the algorithms. created by **python**, **networkx**, **matplotlib**, and **tkinter**. The algorithms:
   * Brooks
   * Edmonds Blossom
   * Hungarian
   * DFS (only as simple example for the GUI)
 
-- [equal-shares](https://github.com/equal-shares/equal-shares/) - A voting system for the Student Union in the university based on the algoritem Method of Equal Shares, Created with **FastAPI**, **React**, **PostgreSQL**, **Docker**, **Nginx**, **GitHub Actions**. BTW, this project is currently in development and integration with the university.
+- [equal-shares](https://github.com/equal-shares/equal-shares/) - (Developed in Team of 3) A voting system for the Student Union in the university based on the algoritem Method of Equal Shares, Created with **FastAPI**, **React**, **PostgreSQL**, **Docker**, **Nginx**, **GitHub Actions**. BTW, this project is currently in development and integration with the university.
 
-- [solutrain](https://github.com/omer-priel/solutrain) - A mobile app and API server for meetings of coaches and trainers. Created with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
+- [solutrain](https://github.com/omer-priel/solutrain) - (Developed in Team of 5) A mobile app and API server for meetings of coaches and trainers. Created with **FastAPI** (python), **Flutter** (dart), and **PostgreSQL**.
 
-- [walmart-sales-prediction](https://github.com/LiorShiboli/walmart-sales-prediction) - Deep Learning project for university. To predict walmart's profit for each department in each store for the coming week when we have the information up to that week. Created with **Python**, **PyTorch**, **Pandas**, **Numpy**, and **Matplotlib**.
+- [walmart-sales-prediction](https://github.com/LiorShiboli/walmart-sales-prediction) - (Developed with friend) Deep Learning project for university. To predict walmart's profit for each department in each store for the coming week when we have the information up to that week. Created with **Python**, **PyTorch**, **Pandas**, **Numpy**, and **Matplotlib**.
 
 #### With people without profit
 
-- [madabclick](https://github.com/omer-priel/madabclick) - Like to the website: [madabclick-frontend.onrender.com](https://madabclick-frontend.onrender.com). **madabclick** is a website for children that contains quality content that selected by graduates of odyssey. It created because of the war. Created with **NextJS** (**React**), **AWS**, **Terraform** and **Docker**.
+- [madabclick](https://github.com/omer-priel/madabclick) - (Developed in Team of 4) Like to the website: [madabclick-frontend.onrender.com](https://madabclick-frontend.onrender.com). **madabclick** is a website for children that contains quality content that selected by graduates of odyssey. It created because of the war. Created with **NextJS** (**React**), **AWS**, **Terraform** and **Docker**.
 
-- [LogisticSaloon](https://github.com/omer-priel/LogisticSaloon) - A website for seeing logistic reports that created for **Hackathon** in IDF. It build with **Vue**.
+- [LogisticSaloon](https://github.com/omer-priel/LogisticSaloon) - (Developed in Team of 2) A website for seeing logistic reports that created for **Hackathon** in IDF. It build with **Vue**.
 
 #### For myself
 
