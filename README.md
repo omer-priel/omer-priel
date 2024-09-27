@@ -68,9 +68,11 @@ graph LR;
 
 - [walmart-sales-prediction](https://github.com/LiorShiboli/walmart-sales-prediction) - Deep Learning project for university. To predict walmart's profit for each department in each store for the coming week when we have the information up to that week. Created with **Python**, **PyTorch**, **Pandas**, **Numpy**, and **Matplotlib**.
 
-#### For myself
+#### With people without profit
 
 - [madabclick](https://github.com/omer-priel/madabclick) - Like to the website: [madabclick-frontend.onrender.com](https://madabclick-frontend.onrender.com). **madabclick** is a website for children that contains quality content that selected by graduates of odyssey. It created because of the war. Created with **NextJS** (**React**), **AWS**, **Terraform** and **Docker**.
+
+#### For myself
 
 - [Control](https://github.com/omer-priel/Control) - It was my first real project that I created in 2015. A two programs for contolling of other computers without the other computer to konw about it. One is the contoller and he has GUI for see the sceens, keyboard and can send commands to the other computer by other program that run on the other computer. Created with **C#**. 
 
