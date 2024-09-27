@@ -8,11 +8,6 @@
 
 - I am currently working for [EasyFarm](http://easyfarm.co.il/) as a Back-End Developer.
 
-- 🔭 I am currently working on final projects for the last year in the University
-
-<!-- - 🌱 I am currently contributing to [mermaid](https://mermaid.js.org/) \
-even thogh I a Back-End Developer. Because, it is a tool that I using daily. -->
-
 - Love [mermaid](https://mermaid.js.org/) for planning and explaining.
 
 ```mermaid
