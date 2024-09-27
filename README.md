@@ -4,7 +4,7 @@
 
 <h4 align="center">Warning, this profile created for my personal happiness</h4>
 
-- 💬 Ask me about **Python, FastAPI, Django** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
+- 💬 Ask me about **Python, FastAPI, Django, TypeScript, React** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
 - I am currently working for [EasyFarm](http://easyfarm.co.il/) as a Back-End Developer.
 
