@@ -126,6 +126,18 @@ graph LR;
   <a href="https://expressjs.com/" target="_blank">
     <img src="./icons/Express.png" alt="Express" width="40" height="40" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="./icons/TailwindCSS.svg" alt="CSS" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="./icons/NextJS.svg" alt="NextJS" width="40" height="40" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="./icons/React.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://storybook.js.org/" target="_blank">
+    <img src="./icons/Storybook.svg" alt="Storybook" width="40" height="40" />
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="./icons/docker.svg" alt="docker" width="40" height="40" />
   </a>
@@ -214,18 +226,6 @@ graph LR;
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="./icons/css.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="./icons/TailwindCSS.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="./icons/NextJS.svg" alt="NextJS" width="40" height="40" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="./icons/React.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://storybook.js.org/" target="_blank">
-    <img src="./icons/Storybook.svg" alt="Storybook" width="40" height="40" />
   </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="./icons/Redux.svg" alt="Redux" width="40" height="40" />
