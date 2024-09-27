@@ -21,7 +21,7 @@ graph LR;
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
 ⚡ Fun facts
-* I saw my older brother programming his first hour (Hello World) and after that hour I started learning and developing until today. And he didn't touch development for over 3 years after that Hello World.
+* I saw my older brother programming his first hour (Hello World) and after that hour I started learning and developing until today. And he didn't touch programing for over 3 years after that Hello World.
 * I am **Linux Mint** and love it. But I choose it, since it looked like **Windows** for me.
 
 ### Linkedin:
