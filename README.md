@@ -31,24 +31,11 @@ graph LR;
   </a>
 </p>
 
-### Projects:
-
 ### Work
 
 - [EasyFarm](http://easyfarm.co.il/) - Online store and management for farms and businesses
 
-<!-- ### Open Source
-
-- [mermaid](https://mermaid.js.org/) - A open source tool for creating diagrams that I love and contribute to it. Created with **JavaScript**.
-
-mermaid
-graph LR;
-  Example -> Of
-  Of -> Mermaid
-  Mermaid -> In
-  In -> GitHub[GitHub 🤣]
-```
--->
+### Projects:
 
 #### For university
 
