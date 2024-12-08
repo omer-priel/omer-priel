@@ -6,23 +6,12 @@
 
 - 💬 Ask me about **Python, FastAPI, Django, TypeScript, React** or any **Language** / **Technology** / **Tool** that mentioned in this **README**.
 
-- I am currently working for [EasyFarm](http://easyfarm.co.il/) as a Back-End Developer.
-
-- Love [mermaid](https://mermaid.js.org/) for planning and explaining.
-
-```mermaid
-graph LR;
-  Example --> Of
-  Of --> Mermaid
-  Mermaid --> In
-  In --> GitHub[GitHub 🤣]
-```
+- Software Engineer at [Chamelio AI](https://chamelio.ai/)
 
 - 📫 Reach me by email **omer.priel2@gmail.com** or by WhatsApp to **(+972) 058-6656434**
 
 ⚡ Fun facts
 * I saw my older brother programming his first hour (Hello World) and after that hour I started learning and developing until today. And he didn't touch programing for over 3 years after that Hello World.
-* I am **Linux Mint** and love it. But I choose it, since it looked like **Windows** for me.
 
 ### Linkedin:
 <p align="left">
@@ -33,7 +22,8 @@ graph LR;
 
 ### Work
 
-- [EasyFarm](http://easyfarm.co.il/) - Online store and management for farms and businesses
+- [Chamelio AI](https://chamelio.ai/)
+- [EasyFarm](http://easyfarm.co.il/)
 
 ### Projects:
 
@@ -111,9 +101,6 @@ graph LR;
 
 ### Technologies and Tools (in no particular order):
 <p>
-  <a href="https://mermaid.js.org/" target="_blank">
-    <img src="./icons/mermaid.svg" alt="mermaid" width="40" height="40" />
-  </a>
   <a href="https://obsidian.md/" target="_blank">
     <img src="./icons/Obsidian.svg" alt="Obsidian" width="40" height="40" />
   </a>
@@ -244,5 +231,8 @@ graph LR;
   </a>
   <a href="https://www.unrealengine.com/en-US" target="_blank">
     <img src="./icons/Unreal.svg" alt="Unreal" width="40" height="40" />
+  </a>
+  <a href="https://mermaid.js.org/" target="_blank">
+    <img src="./icons/mermaid.svg" alt="mermaid" width="40" height="40" />
   </a>
 </p>
